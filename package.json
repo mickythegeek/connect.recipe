@@ -1,0 +1,14 @@
+{
+  "name": "connect.recipe",
+  "version": "1.0.0",
+  "description": "An app that connect its users based on their ZIPs to determine if they can cook with one another",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M1Ck7TH3G33k",
+  "license": "ISC",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
